@@ -1,0 +1,8 @@
+su IIS --> Tipo Mime aggiungere
+
+.mp4 --> video/mp4
+
+.svg --> image/svg+xml
+
+For error code custom pages:
+Install PHP: http://www.web-site-scripts.com/knowledge-base/article/AA-00495/0/PHP-installation-on-IIS7-IIS7.5-and-IIS8.html
